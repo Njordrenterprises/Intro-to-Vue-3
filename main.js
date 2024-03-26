@@ -3,7 +3,15 @@ const app = Vue.createApp({
         return {
             cart: 0,
             premium: true
+<<<<<<< Updated upstream
         }
     },
     methods: {}
+=======
+         
+        }
+    },
+    methods: {}
+    
+>>>>>>> Stashed changes
 })
